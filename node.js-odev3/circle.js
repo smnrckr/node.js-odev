@@ -11,7 +11,7 @@ function circleCircumference(r){
 }
 
 module.exports = {
-    circleArea,
+    circleArea, 
     circleCircumference
 }
 
