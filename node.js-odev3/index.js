@@ -2,5 +2,5 @@ let argument = process.argv.slice(2);
 
 const{ circleArea, circleCircumference } = require('./circle');
 
-circleArea(argument);
+circleArea(argument); 
 circleCircumference(argument);
