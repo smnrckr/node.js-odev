@@ -23,6 +23,7 @@ const server = http.createServer((req,res)=>{
     }
     
     console.log('Bir istek Gönderildi');
+    
     res.end();  
 });
 
